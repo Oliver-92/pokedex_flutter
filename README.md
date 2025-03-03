@@ -23,17 +23,17 @@ Esta aplicación es una Pokedex que permite a los usuarios explorar una lista de
 ## Estructura del Proyecto
 
     ```plaintext
-        lib/
-        ├── main.dart
-        ├── pages/
-        │   └── home.dart
-        └── widgets/
-            ├── app_theme.dart
-            ├── pokeapi.dart
-            ├── pokemon_card.dart
-            └── pokemon_colors.dart
-        assets/
-        └── pokeball.png
+    lib/
+    ├── main.dart
+    ├── pages/
+    │   └── home.dart
+    └── widgets/
+        ├── app_theme.dart
+        ├── pokeapi.dart
+        ├── pokemon_card.dart
+        └── pokemon_colors.dart
+    assets/
+    └── pokeball.png
     ```
 
 ## Componentes Principales
